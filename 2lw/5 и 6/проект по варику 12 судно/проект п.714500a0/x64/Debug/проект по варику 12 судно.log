@@ -1,0 +1,5 @@
+﻿  Combi.cpp
+D:\2k_4s\Mathematics programming\2lw\5 и 6\проект по варику 12 судно\Combi.cpp(12,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  main.cpp
+  Создание кода...
+  проект по варику 12 судно.vcxproj -> D:\2k_4s\Mathematics programming\2lw\5 и 6\проект по варику 12 судно\x64\Debug\проект по варику 12 судно.exe
